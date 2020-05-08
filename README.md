@@ -1,4 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Giphy Tooltip
+
+<div align="center">
+  <img alt="Giphy tooltip screenshot" src="https://user-images.githubusercontent.com/438545/81440391-d4026b80-9124-11ea-9e14-681bab663677.png">
+</div>
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and reflects approximately 1 hour of effort.
+
+Supported:
+
+- Mouse: click and drag, double click
+- Keyboard: Select all, Shift + arrow keys
+- Tap on mobile (to be confirmed, but seems to work in dev tools)
+
+Future work:
+
+- Flip the tooltip if it would be cut off (WIP)
+- Keep anchored on window resize
+- Tests that cover the selection (jsdom has limited support)
 
 ## Available Scripts
 
